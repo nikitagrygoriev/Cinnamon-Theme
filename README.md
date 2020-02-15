@@ -1,1 +1,1 @@
-CinanmonTheme
+Cinnamon Theme
